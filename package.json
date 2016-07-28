@@ -2,7 +2,7 @@
   "name": "hubot-mopidy",
   "description": "A hubot script to interact with mopidy",
   "version": "0.0.0",
-  "author": "Kenny Gatdula <kennygatdula@gmail.com>",
+  "author": "Kenny Gatdula <kennyg@pobox.com>",
   "license": "MIT",
   "keywords": [
     "hubot",
@@ -11,10 +11,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-mopidy.git"
+    "url": "git://github.com/kennyg/hubot-mopidy.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-mopidy/issues"
+    "url": "https://github.com/kennyg/hubot-mopidy/issues"
   },
   "dependencies": {
     "coffee-script": "~1.6",
